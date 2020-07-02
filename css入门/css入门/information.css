@@ -1,0 +1,171 @@
+
+body{
+	background-color: #333;
+	font-family: Verdana, Geneva,Arial,sans-serif;
+	background: url(pitures/4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1600px 1600px;
+    width: 95%;
+    
+    margin:auto;
+}
+
+
+ .header2
+	{
+		margin-top: 3px;
+	background-color: coral;
+    opacity: 0.6;
+    padding-left: 60px;
+    line-height: 50px;
+    width: 95%;
+    border:3px pink solid ;
+
+   
+}
+
+ .header2 h4{
+    
+    line-height: center; 
+     margin: auto;
+     color: #ffc;
+} 
+.nav{
+	background-color:coral;
+	opacity:0.6;
+	color: #ffc;
+    list-style:none; 
+    margin: auto;
+    margin-top: 5px;
+    width: 115px;
+    height:500px; 
+    float: left;
+    padding-top:80px; 
+    border:3px pink solid;
+   }
+.nav ul{
+   margin: auto;
+ padding-left:0px;
+}
+.nav li{
+	text-align: center;
+	line-height: 100px;
+	padding-left: 0px;
+	 
+    
+}
+.nav li:nth-child(2) a{
+	color: red;
+}
+.nav a{
+
+	padding-left: 0;
+	text-decoration: none;
+	color: #000;
+	font-size: 16px;
+}
+.nav a:hover{
+	color: red;
+}
+
+#header{
+	background: url(pitures/c.jpg);
+	 background-color: #fff; 
+	opacity: 0.6;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+    padding: 20px 10px;
+	border:5px solid ;
+	border-color: pink;
+    width:77% ;
+    margin: auto;
+    margin-top:5px; 
+    height:150px;
+    
+}
+.header1{
+	 float:left;
+	 width:70% ;
+
+	 box-sizing: border-box;
+}
+#header h1{
+	text-align: left;
+	margin:40px 60px;
+    width: 50%;
+	font-size: 40px;
+	margin-top: 5px;
+	color: #000;
+	box-sizing: border-box;
+
+}
+#header h2{
+	text-align: center;
+	
+	font-size: 20px;
+	margin:auto;
+	color: #000;
+	box-sizing: border-box;
+}
+.pitures{
+	float: right;
+	width: 30%;
+
+	box-sizing: border-box;
+	
+}
+#article{
+	
+	font-size: 20px;
+	padding-top:60px; 
+	 border-left: dotted 6px pink;
+     border-right: dotted 6px pink;
+	 margin-right: 180px;
+	 margin-left: 180px;
+}
+
+#article h3{
+	font-size: 30px;
+	padding-left: 180px;
+	margin-left: 200px;
+} 
+#article p{
+	
+text-align: center;
+} 
+#article img{
+	padding-left: 200px;
+	margin-left: 120px;
+
+}
+.video video{
+	margin: 0 220px;
+	width:800px;
+    
+	
+}
+.video h4{
+	padding-left: 300px;
+	margin-left: 160px;
+    color:coral;
+    font-size: 30px;
+}
+.video h6{
+	text-align: center;
+    
+    font-size: 15px;
+}
+
+.footer{
+      background-color:#000;
+      opacity: 0.6;
+      color: #fff;
+      padding-bottom: 5px ;
+      bottom: 0;
+      text-align: center;
+      width: 100%;
+       padding: auto;
+       border:3px pink solid ;
+
+} 
